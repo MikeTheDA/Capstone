@@ -49,11 +49,11 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-The top 10 data analyst jobs in 2023 showcase a diverse range of roles with competitive salaries, starting with **Mantys** offering a **Data Analyst** position with an extraordinary salary of **$650,000**, likely reflecting a highly specialized or senior-level role. **Meta** follows with a **Director of Analytics** at **$336,500**, indicating a leadership position in a top tech company. **AT&T** offers an **Associate Director- Data Insights** role for **$255,829.50**, emphasizing data strategy and insights. 
+The top 10 data analyst jobs in 2023 showcase a diverse range of roles with competitive salaries, starting with Mantys offering a Data Analyst position with an extraordinary salary of $650,000, likely reflecting a highly specialized or senior-level role. Meta follows with a Director of Analytics at $336,500, indicating a leadership position in a top tech company. AT&T offers an Associate Director- Data Insights** role for $255,829.50**, emphasizing data strategy and insights. 
 
-**Pinterest** is hiring a **Marketing Data Analyst** for **$232,423**, blending analytics with marketing functions, while **Uclahealthcareers** has a **Hybrid/Remote Data Analyst** role at **$217,000**, offering flexibility. **SmartAsset** provides multiple positions, including a **Principal Data Analyst (Remote)** at **$205,000**, and another at **$186,000**, indicating high demand for senior analysts. 
+Pinterest is hiring a Marketing Data Analyst for $232,423, blending analytics with marketing functions, while Uclahealthcareers has a Hybrid/Remote Data Analyst role at $217,000, offering flexibility. SmartAsset provides multiple positions, including a Principal Data Analyst (Remote) at $205,000, and another at $186,000, indicating high demand for senior analysts. 
 
-Other notable roles include **Director, Data Analyst (Hybrid)** at **Inclusively** for **$189,309**, **Principal Data Analyst, AV Performance Analysis** at **Motional** for **$189,000**, and an **ERM Data Analyst** at **Get It Recruit** for **$184,000**. These jobs span industries and reflect the growing importance of data in decision-making and performance analysis.
+Other notable roles include Director, Data Analyst (Hybrid) at Inclusively for $189,309, Principal Data Analyst, AV Performance Analysis at Motional for $189,000, and an ERM Data Analyst at Get It Recruit for $184,000. These jobs span industries and reflect the growing importance of data in decision-making and performance analysis.
 
 ![Top Paying Jobs](assets\1_top_paying_jobs.png)
 *Bar graph visualizing the highest paying jobs for data analysts. ChatGPT generated this graph from my SQL query results.*
@@ -90,7 +90,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY    
     salary_year_avg DESC
 ```
-![Skill Count](assets\2_skill_count.png) 
+![Skill Count](assets\2_skill_count.png)
 *Bar graph visualizing the skill count for the top ten paying data analyst roles*
 
 ### 3. In Demand Skills for Data Analysts
