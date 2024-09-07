@@ -76,3 +76,29 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 
+/*
+Here are some key insights from the dataset:
+
+1. **Top-paying skills**:  
+   The highest-paying skill is "Go" with an average salary of $115,320, followed by "Confluence" at $114,210, and "Hadoop" at $113,193.
+
+2. **High demand vs. salary**:  
+   "Python" has the highest demand with 236 job openings but a relatively lower average salary of $101,397 compared to less in-demand skills like "Go" or "Confluence."
+
+3. **Top demand skills**:  
+   "Python" (236 jobs), "R" (148 jobs), "Tableau" (230 jobs), and "SAS" (63 jobs) are the most in-demand skills.
+
+4. **Lower-paying yet popular skills**:  
+   Despite high demand, skills like "Tableau" ($99,288) and "SAS" ($98,902) have lower average salaries compared to high-demand but higher-paying skills.
+
+5. **Skill demand variance**:  
+   While "Looker" has a high demand (49 jobs), its average salary is only $103,795. Similarly, "Azure" (34 jobs) pays $111,225, showing a balance between demand and compensation.
+
+6. **Specialized skills**:  
+   Niche skills like "BigQuery" (13 jobs) and "Snowflake" (37 jobs) command higher salaries ($109,654 and $112,948, respectively) compared to more general skills like "Java" ($106,906) and "NoSQL" ($101,414).
+
+7. **Skills with balanced demand and salary**:  
+   "AWS" (32 jobs) with a salary of $108,317 and "SQL Server" (35 jobs) at $97,786 are examples of skills with both decent demand and competitive salaries.
+
+These insights reflect the relationship between demand and salary for various technical skills, highlighting where specialized knowledge commands a premium.
+*/
