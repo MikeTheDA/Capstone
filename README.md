@@ -55,7 +55,7 @@ Pinterest is hiring a Marketing Data Analyst for $232,423, blending analytics wi
 
 Other notable roles include Director, Data Analyst (Hybrid) at Inclusively for $189,309, Principal Data Analyst, AV Performance Analysis at Motional for $189,000, and an ERM Data Analyst at Get It Recruit for $184,000. These jobs span industries and reflect the growing importance of data in decision-making and performance analysis.
 
-![Top Paying Jobs](assets\1_top_paying_jobs.png)
+![Top Paying Jobs](assets/1_top_paying_jobs.png)
 *Bar graph visualizing the highest paying jobs for data analysts. ChatGPT generated this graph from my SQL query results.*
 
 ### 2. Skills for Top-Paying Data Analyst Jobs
@@ -90,7 +90,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY    
     salary_year_avg DESC
 ```
-![Skill Count](assets\2_skill_count.png)
+![Skill Count](assets/2_skill_count.png)
 *Bar graph visualizing the skill count for the top ten paying data analyst roles*
 
 ### 3. In Demand Skills for Data Analysts
