@@ -180,6 +180,7 @@ Here's a breakdown of the top-paying skills for data analysts:
 | Jupyter      | $152,777       |
 | Pandas       | $151,821       |
 | Elasticsearch| $145,000       |
+
 *Table of the top 10 skills based on the average salary*
 
 ### 5. Most Optimal Skills for Data Analysts
@@ -221,6 +222,7 @@ LIMIT 25;
 | Java       | 17            | $106,906       |
 | SSIS       | 12            | $106,683       |
 | Jira       | 20            | $104,918       |
+
 *Table of the most optimal skills for Data Analysts, sorted by salary* 
 
 The most optimal skills for data analysts include Go, Confluence, Hadoop, Snowflake, Azure, BigQuery, AWS, Java, SSIS, and Jira. These skills have strong demand, with Go leading in both demand and average salary at $115,320. Specialized tools like Snowflake and BigQuery also command high salaries, highlighting the value of cloud and data management expertise in the job market. Proficiency in programming languages like Java and expertise in AWS and Azure are similarly rewarding for data professionals.
