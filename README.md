@@ -270,18 +270,18 @@ LIMIT 10;
 
 Fun fact: Most of these jobs were offered by Citi
 
-# What I Learned
-While I already knew the basics of SQL thanks to the Google Data Analytics Professional Certificate, this course improved my skills immensely. I learned..
-
-- How to use PostgreSQL with Visual Studio Code to create and query my own local databases.
-- How to upload my local repository to a remote repository on GitHub using VSC.
-- More about subqueries and Common Table Expressions (CTEs) to help organize and simplify complex queries.
-
-# Conclusions
-### Insights
+# Insights
 1. **Top-Paying Data Analyst Jobs:** The highest-paying jobs for data analysts that allow remote work, the highest at $650,000!
 2. **Skills for Top-Paying Jobs:** High-paying data analyst positions demand advanced proficiency in SQL, indicating that this skill is essential for securing a top salary.
 3. **Most In Demand Skills:** SQL is the most sought-after skill in the data analyst job market, making it crucial for job seekers.
 4. **Skills with Higher Salaries:** Specialized skills like PySpark and Bitbucket are linked to the highest average salaries for data analysts, highlighting the value placed on niche expertise.
 5. **Optimal Skills for Job Market Value:** Go ranks highest in both demand and average salary, making it a highly valuable skill for a Data Analyst to learn. However, SQL remains the most in-demand skill overall and still offers a competitive average salary.
 6. **Top-Paying Data Analyst Jobs in Tampa, FL:** The top 10 highest paying jobs in Tampa, FL had a salary range of $132K to $189K!
+
+# What I Learned
+While I already knew the basics of SQL thanks to the Google Data Analytics Professional Certificate, this course improved my skills immensely. I learned..
+
+- How to use PostgreSQL with Visual Studio Code to create and query my own local databases.
+- How to upload a local repository to a remote repository on GitHub using VSC.
+- More about subqueries and Common Table Expressions (CTEs) to help organize and simplify complex queries.
+
