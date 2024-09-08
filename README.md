@@ -145,28 +145,28 @@ LIMIT 25
 ```
 Here's a breakdown of the top-paying skills for data analysts:
 
-1. **PySpark**: $208,172
-   - **Use**: Big data processing and analytics.
+1. PySpark: $208,172
+   - Use: Big data processing and analytics.
 
-2. **DataRobot**: $155,486
-   - **Use**: Automated machine learning platform.
+2. DataRobot: $155,486
+   - Use: Automated machine learning platform.
 
-3. **Jupyter**: $152,777
-   - **Use**: Interactive notebooks for live code and data analysis.
+3. Jupyter: $152,777
+   - Use: Interactive notebooks for live code and data analysis.
 
-4. **Pandas**: $151,821
-   - **Use**: Data manipulation and analysis in Python.
+4. Pandas: $151,821
+   - Use: Data manipulation and analysis in Python.
 
-5. **Databricks**: $141,907
-   - **Use**: Unified analytics platform for big data and AI.
+5. Databricks: $141,907
+   - Use: Unified analytics platform for big data and AI.
 
-6. **Scikit-learn**: $125,781
-   - **Use**: Machine learning library in Python for predictive data analysis.
+6. Scikit-learn: $125,781
+   - Use: Machine learning library in Python for predictive data analysis.
 
-7. **PostgreSQL**: $123,879
-   - **Use**: Advanced relational database management system.
+7. PostgreSQL: $123,879
+   - Use: Advanced relational database management system.
 
-**Note**: While skills like Bitbucket, Couchbase, and Watson are high-paying, they are less directly related to typical data analyst functions compared to the skills listed above.
+*Note: While skills like Bitbucket, Couchbase, and Watson are high-paying, they are less directly related to typical data analyst functions compared to the skills listed above.*
 
 | Skill        | Average Salary |
 |--------------|----------------|
@@ -265,6 +265,7 @@ LIMIT 10;
 | Data Analyst                                                                | $137,610        |
 | Data Analyst. Job in Tampa LilyLifestyle Jobs                               | $137,610        |
 | Vice President - Lead AML Data Science Analyst- Hybrid                      | $132,315        |
+
 *Chart displaying the highest paying Data Analyst jobs in Tampa, FL in 2023*
 
 Fun fact: Most of these jobs were offered by Citi
